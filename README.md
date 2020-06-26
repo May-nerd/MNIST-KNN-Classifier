@@ -1,5 +1,7 @@
 ## 𝐖𝐡𝐚𝐭 𝐝𝐢𝐠𝐢𝐭 𝐢𝐬 𝐢𝐭? - 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐂𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐨𝐟 𝐊𝐍𝐍𝐬 𝐭𝐨 𝐑𝐞𝐚𝐝 𝐇𝐚𝐧𝐝𝐰𝐫𝐢𝐭𝐭𝐞𝐧 𝐃𝐢𝐠𝐢𝐭𝐬
 
+![Model Sample Performance](model.gif)
+
 In this new normal, the capability to transform handwritten notes to digital text is very advantageous. One use case would be for teachers. They will be able to convert their handwritten modules to digital media that they can send to their students online. Another advantage of converting notes to text is the file size. Images of the same handwritten note can have a file size that could be 1000 times bigger than the note converted that is text. This could aid a lot of people who have limited data allocation.
 
 That is why we created a machine learning algorithm that can read handwritten digits as a proof of concept for this idea. We took the K-Nearest Neighbors’ capability to the test. We were surprised that our simple model with K=11 managed to correctly predict the handwritten digits 𝟗𝟏.𝟖% of the time!
