@@ -12,4 +12,4 @@ The most misclassified pair of digits is (7,1). This means that the model would 
 
 𝐈𝐭'𝐬 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠 𝐭𝐨 𝐟𝐢𝐧𝐝 𝐭𝐡𝐚𝐭 𝐨𝐮𝐫 𝐦𝐨𝐝𝐞𝐥 𝐚𝐥𝐬𝐨 𝐡𝐚𝐬 𝐝𝐢𝐟𝐟𝐢𝐜𝐮𝐥𝐭𝐲 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐧𝐮𝐦𝐛𝐞𝐫𝐬 𝐭𝐡𝐚𝐭 𝐰𝐞 𝐡𝐮𝐦𝐚𝐧𝐬 𝐭𝐞𝐧𝐝 𝐭𝐨 𝐦𝐢𝐬𝐜𝐥𝐚𝐬𝐬𝐢𝐟𝐲 𝐚𝐥𝐬𝐨. 😊
 
-Apeles| Dela Cruz | Hwang | Nigam | Palomaria | Vargas
+Apeles | Dela Cruz | Hwang | Nigam | Palomaria | Vargas
